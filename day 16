@@ -1,0 +1,32 @@
+# Day 16 – Django Backend Framework
+
+## Topics Learned
+
+* Introduction to Django
+* Django Project Structure
+* Models, Views & Templates
+* Authentication Basics
+* Backend Architecture Understanding
+
+## Learning Resources
+
+* Django Full Tutorial for Beginners:
+  https://youtu.be/F5mRW0jo-U4
+
+## Practical Understanding
+
+* Learned Django project architecture
+* Understood MVC/MVT workflow
+* Explored templates, views, and models
+* Learned basics of authentication system
+
+## Project Connection
+
+* Understood how large-scale backend applications are structured
+* Explored how web scraping projects can be integrated into Django applications
+
+## Learning Outcomes
+
+* Basic understanding of Django
+* Improved backend workflow knowledge
+* Better understanding of real-world Python backend architecture
