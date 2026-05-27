@@ -1,0 +1,32 @@
+# Day 15 – Flask Backend Basics
+
+## Topics Learned
+
+* Introduction to Flask
+* Python Backend Basics
+* Flask Routing
+* APIs & Server Basics
+* Backend Workflow Understanding
+
+## Learning Resources
+
+* Flask Full Tutorial for Beginners:
+  https://youtu.be/Z1RJmh_OqeA
+
+## Practical Understanding
+
+* Learned how backend servers work
+* Understood request-response workflow
+* Explored Flask routing concepts
+* Learned basics of API handling in Python
+
+## Project Connection
+
+* Understood how Flask can be integrated with the Web Scraper project
+* Explored possibilities of displaying scraped data through APIs or web applications
+
+## Learning Outcomes
+
+* Basic understanding of Flask framework
+* Backend workflow understanding
+* API structure basics
